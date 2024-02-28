@@ -1,1 +1,2 @@
-#Djangorestframework for api with react for some UI
+#Djangorestframework for api with postgresql
+#React for some UI
